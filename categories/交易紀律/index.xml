@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>交易紀律 on DigitalMe</title>
-    <link>http://localhost:1313/categories/%E4%BA%A4%E6%98%93%E7%B4%80%E5%BE%8B/</link>
+    <link>https://ericlin9695.github.io/categories/%E4%BA%A4%E6%98%93%E7%B4%80%E5%BE%8B/</link>
     <description>Recent content in 交易紀律 on DigitalMe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Mon, 18 Mar 2024 10:07:47 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%E4%BA%A4%E6%98%93%E7%B4%80%E5%BE%8B/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ericlin9695.github.io/categories/%E4%BA%A4%E6%98%93%E7%B4%80%E5%BE%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>下單紀律 SOP</title>
-      <link>http://localhost:1313/blog/sop/</link>
+      <link>https://ericlin9695.github.io/blog/sop/</link>
       <pubDate>Mon, 18 Mar 2024 10:07:47 +0800</pubDate>
-      <guid>http://localhost:1313/blog/sop/</guid>
+      <guid>https://ericlin9695.github.io/blog/sop/</guid>
       <description>Revised 2024/2/23</description>
     </item>
   </channel>

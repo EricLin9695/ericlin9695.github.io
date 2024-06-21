@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on DigitalMe</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://ericlin9695.github.io/categories/</link>
     <description>Recent content in Categories on DigitalMe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 19 Jun 2024 18:50:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Jun 2024 21:50:00 +0800</lastBuildDate>
+    <atom:link href="https://ericlin9695.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>日常交易紀錄</title>
-      <link>http://localhost:1313/categories/%E6%97%A5%E5%B8%B8%E4%BA%A4%E6%98%93%E7%B4%80%E9%8C%84/</link>
-      <pubDate>Wed, 19 Jun 2024 18:50:00 +0800</pubDate>
-      <guid>http://localhost:1313/categories/%E6%97%A5%E5%B8%B8%E4%BA%A4%E6%98%93%E7%B4%80%E9%8C%84/</guid>
+      <link>https://ericlin9695.github.io/categories/%E6%97%A5%E5%B8%B8%E4%BA%A4%E6%98%93%E7%B4%80%E9%8C%84/</link>
+      <pubDate>Fri, 21 Jun 2024 21:50:00 +0800</pubDate>
+      <guid>https://ericlin9695.github.io/categories/%E6%97%A5%E5%B8%B8%E4%BA%A4%E6%98%93%E7%B4%80%E9%8C%84/</guid>
       <description></description>
     </item>
     <item>
       <title>交易紀律</title>
-      <link>http://localhost:1313/categories/%E4%BA%A4%E6%98%93%E7%B4%80%E5%BE%8B/</link>
+      <link>https://ericlin9695.github.io/categories/%E4%BA%A4%E6%98%93%E7%B4%80%E5%BE%8B/</link>
       <pubDate>Mon, 18 Mar 2024 10:07:47 +0800</pubDate>
-      <guid>http://localhost:1313/categories/%E4%BA%A4%E6%98%93%E7%B4%80%E5%BE%8B/</guid>
+      <guid>https://ericlin9695.github.io/categories/%E4%BA%A4%E6%98%93%E7%B4%80%E5%BE%8B/</guid>
       <description></description>
     </item>
   </channel>
