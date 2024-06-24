@@ -6,8 +6,15 @@
     <description>Recent content in 交易紀律 on DigitalMe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 21 Jun 2024 21:50:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 17:50:00 +0800</lastBuildDate>
     <atom:link href="https://ericlin9695.github.io/tags/%E4%BA%A4%E6%98%93%E7%B4%80%E5%BE%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20240624</title>
+      <link>https://ericlin9695.github.io/blog/20240624/</link>
+      <pubDate>Mon, 24 Jun 2024 17:50:00 +0800</pubDate>
+      <guid>https://ericlin9695.github.io/blog/20240624/</guid>
+      <description>檢討：&#xA;日規劃學習陳小刀（銀彈交易頻道）做了Fib的調整，並且加上歐盤開盤時間，提醒自己沒到別打。 早上下殺後，回彈且回測時，用TSX的三口MNQ進場試試看，過了停損區就放著，沒想到運氣蠻好，重訓都沒關注，下課後反而在20000整數附近，就直接先出場。看來足夠大的停損區+下單後不關注+不追單，確實是一個比較穩定的策略。 下午歐盤開始後，因為有兩個TS的帳號即將在本週到期，決定用NQ來進單，因為有reset護身，可以嘗試看看比較大刻度的策略。 NQ今天有吃到兩口，不過抱單v.</description>
+    </item>
     <item>
       <title>20240621</title>
       <link>https://ericlin9695.github.io/blog/20240621/</link>
