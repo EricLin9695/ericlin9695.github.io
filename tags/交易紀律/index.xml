@@ -6,8 +6,15 @@
     <description>Recent content in 交易紀律 on DigitalMe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 22 Jul 2024 23:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 22:50:00 +0800</lastBuildDate>
     <atom:link href="https://ericlin9695.github.io/tags/%E4%BA%A4%E6%98%93%E7%B4%80%E5%BE%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20240723</title>
+      <link>https://ericlin9695.github.io/blog/20240723/</link>
+      <pubDate>Tue, 23 Jul 2024 22:50:00 +0800</pubDate>
+      <guid>https://ericlin9695.github.io/blog/20240723/</guid>
+      <description>檢討：&#xA;今天有做到下午兩點才下單，但是仍沒有堅持到歐盤開盤後。 除了像昨天的特殊情況，確實亞盤的波動都不大，很掃，如果想拿大一點就很容易被掃出場，且影響心情。 今天嘗試在歐盤開始的Judas Swing後進單，算是成果蠻好的一次（當然前面Swing期間的各種摸與損，也是需要調整的）。 另外也試著在晚上八點後，波動開始變大後的期間下單，尤其是觀察21:30開盤後的Judas Swing及Liquidity，真的有去做，才會發現其威力。 其實在有「看到就知道應該是對的」的位置，還是會有點不敢下單，原因是(1)停損太小，怕一下子就被掃掉，而如果拉大停損，又會(2)怕虧損太大無法承受。 其實我現在理解好的解方，就是觀察出自己覺得「真正」好的位置（不是那種摸頭猜底的，而是好的、有依據的回踩位置），勇敢下單並調整停損到超過Liquidity的位置。透過減少出手次數，來交換長期的正期望值。 </description>
+    </item>
     <item>
       <title>20240722</title>
       <link>https://ericlin9695.github.io/blog/20240722/</link>
