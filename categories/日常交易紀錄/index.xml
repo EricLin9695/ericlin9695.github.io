@@ -6,8 +6,22 @@
     <description>Recent content in 日常交易紀錄 on DigitalMe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 30 Jul 2024 22:45:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 22:40:00 +0800</lastBuildDate>
     <atom:link href="https://ericlin9695.github.io/categories/%E6%97%A5%E5%B8%B8%E4%BA%A4%E6%98%93%E7%B4%80%E9%8C%84/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20240801</title>
+      <link>https://ericlin9695.github.io/blog/20240801/</link>
+      <pubDate>Thu, 01 Aug 2024 22:40:00 +0800</pubDate>
+      <guid>https://ericlin9695.github.io/blog/20240801/</guid>
+      <description>檢討：&#xA;延續昨天想到的交易系統二，今天有傍晚七點多跟美盤十點後使用，確實有那麼點意思。然而，什麼樣的5K轉換是有意義、真的被尊重的地方，則還是一個需要繼續觀察與改進操作的地方。 另外是有意義的停損。一直以來都沒有很正視短停損的問題，容易導致多次密集被掃掉，從而上頭的狀況。今天有嘗試把停損拉到Liq以外的地方，並且試著在停損後儘量不要繼續下單。以今天的結果來說，算是運氣不錯。接下來要試著用更好的判斷，在同時降低停損金額、與停損次數的情況下，抓好的限價位置進單，提高勝率與RR。 趨勢不會一下子改變。以前因為一旦趨勢形成，就只能選擇空手（毒雞湯），就真的只會逼自己去抓根本不成熟的反轉，卻忽略了順著趨勢走的可能性。畢竟當沖也不用長單，20-40點的距離，如果我以前覺得回檔可以達到，那麼順勢不是更容易達到嗎？別再身陷盲區了，趕快出來看看外面的世界有多大的機會啊！ </description>
+    </item>
+    <item>
+      <title>20240731</title>
+      <link>https://ericlin9695.github.io/blog/20240731/</link>
+      <pubDate>Wed, 31 Jul 2024 23:40:00 +0800</pubDate>
+      <guid>https://ericlin9695.github.io/blog/20240731/</guid>
+      <description>檢討：&#xA;今天有等到下午五點才出手，這個OK。兩次出手後看沒有什麼機會，就沒有繼續，等美盤開盤，這也OK。 美盤看的Bias是空，這個從結果來看是錯的。出手次數太多，這也是錯的。 今天才突然想到MSS/MSB的主要用意在哪，就是如果沒有明確的MSB，那麼其實是原本趨勢的暫時回檔，後續比較大機率是恢復原本的趨勢。 加上我的壞習慣是摸頭猜底賭反轉，所以會「期望」每次的回檔都會造成MSB，然後趨勢就直接反轉改變不回頭。但是這樣是錯(亂摸)上加錯(妄想MSB)。 所以說穿了就是沒有貫徹我要做的交易系統（沒等到圖就下單）。 另外要調整的是，增加「回檔但是沒有造成MSB」(像是上樓梯)這樣情況的觀察，建立這樣情況下該如何下單的準則。 </description>
+    </item>
     <item>
       <title>20240730</title>
       <link>https://ericlin9695.github.io/blog/20240730/</link>
